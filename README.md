@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🖱️ Software Engineer | Fullstack Web Developer<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
 ### 💻 Efficient & Scalable Code<br>
-### ☑️ Feel free to connect with me on LinkedIn!<br>
+### ✅ Feel free to connect with me on LinkedIn!<br>
 
 ## Tech Stack
 ### Skills
