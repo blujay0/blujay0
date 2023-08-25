@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 📄 <a>Portfolio</a>&nbsp;|&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🖱️ Software Engineer | Fullstack Web Developer<br>
+### 🖱️ Software Engineer | Web Developer<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
 ### 💻 Efficient & Scalable Code<br>
 ### ✅ Feel free to connect with me on LinkedIn!<br>
