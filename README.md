@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 About Me 
 
-### 📄 <a>Website</a>&nbsp;|&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### 📄 <a>Website [TBD]</a>&nbsp;|&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🖱️ Software Engineer | Web Developer<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
