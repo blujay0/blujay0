@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### 🖱️ Software Engineer | Web Developer<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
 ### 💻 Efficient & Scalable Code<br>
+### ⬇️ Checkout the `Pinned` section for my most comprehensive projects<br>
 ### ☑️ Feel free to connect with me on LinkedIn!<br>
 
 ## Skills & Languages
