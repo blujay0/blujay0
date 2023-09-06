@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Database
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### UI
+### CSS Frameworks
 ![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=222222&logo=Bulma&logoColor=00D1B2&label=) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-484848.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 
 ### IDE
