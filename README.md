@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 📄 <a>Website [TBD]</a>&nbsp;|&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>
 
-### 🖱️ Full Stack Software Engineer | Web Developer<br>
+### 🖱️ Software Engineer | Web Development<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
 ### 💻 Efficient & Scalable Code<br>
 ### ⬇️ Checkout the `Pinned` section for my most comprehensive projects<br>
