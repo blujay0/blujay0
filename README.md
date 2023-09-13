@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   
 
 ### CSS Frameworks
-![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=222222&logo=Bulma&logoColor=00D1B2&label=) ![MUI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI-484848.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=005791&logo=Bulma&logoColor=00D1B2&label=) ![MUI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI-484848.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 
 ### Database
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Deployment
-![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=) ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=) ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=) ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=f53702&logo=Firebase&logoColor=FFCA28&label=)
-![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=222222&logo=Render&logoColor=46E3B7&label=) 
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=) ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=) ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=0014ed&logo=Netlify&logoColor=00C7B7&label=) ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=f53702&logo=Firebase&logoColor=FFCA28&label=)
+![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=232a55&logo=Render&logoColor=46E3B7&label=) 
 
 
 ### IDE
