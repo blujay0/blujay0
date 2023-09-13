@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 ### Deployment
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=) ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=) ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=0014ed&logo=Netlify&logoColor=00C7B7&label=) ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=f53702&logo=Firebase&logoColor=FFCA28&label=)
-![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=232a55&logo=Render&logoColor=46E3B7&label=) 
+![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=232a55&logo=Render&logoColor=46E3B7&label=) ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=3a4d43&logo=GitHub+Pages&logoColor=FFFFFF&label=)
+
 
 
 ### IDE
