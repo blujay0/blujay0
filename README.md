@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 About Me 
 
-### 📄 <a href="https://jay-lim-dev.netlify.app/" target="_blank">Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/jay-y-lim/" target="_blank">LinkedIn</a>
+### 📄 <a href="https://jay-lim-dev.netlify.app" target="_blank">Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/jay-y-lim/" target="_blank">LinkedIn</a>
 
 ### 🖱️ Software Engineer | Web Development<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
