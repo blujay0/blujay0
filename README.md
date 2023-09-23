@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 # 👋 About Me 
 
-### 📄 <a href="https://jay-lim-dev.netlify.app" target="_blank">Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/jay-y-lim/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;<a href="https://dev.to/blujay0" target="_blank">DEV.to</a>
+<h3> 📄 <a href="https://jay-lim-dev.netlify.app" target="_blank">Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/jay-y-lim/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;<a href="https://dev.to/blujay0" target="_blank">DEV.to</a></h3>
 
-### 🖱️ Software Engineer | Web Development <br>
-<!-- #### 💼 Open to new employment opportunities! <br> -->
-### 💻 Efficient & Scalable Code <br>
-### ⬇️ Checkout the `Pinned` section for my most comprehensive projects <br>
-### ☑️ Feel free to connect with me on LinkedIn and DEV.to! <br>
+<h3> 🖱️ Software Engineer | Web Development </h3>
+<!-- #### 💼 Open to new employment opportunities!-->
+<h3> 💻 Efficient & Scalable Code </h3>
+<h3> ⬇️ Checkout the `Pinned` section for my most comprehensive projects </h3>
+<h3> ☑️ Feel free to connect with me on LinkedIn and DEV.to! </h3>
 
 ## Skills & Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-gray.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
