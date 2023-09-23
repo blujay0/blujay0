@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### 📄 <a href="https://jay-lim-dev.netlify.app" target="_blank">Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/jay-y-lim/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;<a href="https://dev.to/blujay0" target="_blank">DEV.to</a>
 
+<br>
+
 ### 🖱️ Software Engineer | Web Development <br>
 <!-- #### 💼 Open to new employment opportunities! <br> -->
 ### 💻 Efficient & Scalable Code <br>
