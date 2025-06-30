@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 About Me 
 
 ### 📄 <a href="https://jay-lim-dev.netlify.app" target="_blank">Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/jay-y-lim/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;<a href="https://dev.to/blujay0" target="_blank">DEV.to</a>
-### 🖱️Nursing | Software Developer | Web Development
+### 🖱️Nursing | Software Development
 <!-- #### 💼 Open to new employment opportunities!-->
 ### 💻 Efficient & Scalable Code
 ### ⬇️ Checkout the `Pinned` section for my most comprehensive projects
